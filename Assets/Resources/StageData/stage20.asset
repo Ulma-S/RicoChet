@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b2b6301b65d0a4a95a0a86f5e5e034, type: 3}
+  m_Name: stage20
+  m_EditorClassIdentifier: 
+  PlayerSetReflectors: 0300000001000000
+  GoalData:
+    pos: {x: 0, y: 13}
+    state: 3
+    durable: 0
+  StartData:
+    pos: {x: 9, y: 10}
+    state: 3
+    durable: 0
+  WallPoses: []
+  CoinPos: {x: 8, y: 14}
+  ReflectorsData:
+  - pos: {x: 1, y: 2}
+    state: 1
+    durable: 2
+  - pos: {x: 4, y: 2}
+    state: 0
+    durable: 1
+  - pos: {x: 7, y: 2}
+    state: 0
+    durable: 1
+  - pos: {x: 6, y: 10}
+    state: 5
+    durable: 1
+  - pos: {x: 7, y: 10}
+    state: 1
+    durable: 2
+  - pos: {x: 1, y: 13}
+    state: 0
+    durable: 2
+  - pos: {x: 7, y: 13}
+    state: 1
+    durable: 1
+  - pos: {x: 2, y: 16}
+    state: 0
+    durable: 1
+  - pos: {x: 4, y: 16}
+    state: 1
+    durable: 1
+  InfinityReflectorsData:
+  - pos: {x: 2, y: 10}
+    state: 1
+    durable: 0
+  - pos: {x: 2, y: 13}
+    state: 1
+    durable: 0

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7378967848780515273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7378967848780515279}
+  - component: {fileID: 7378967848780515278}
+  - component: {fileID: 3541103897564278174}
+  - component: {fileID: 5206739628003145116}
+  m_Layer: 0
+  m_Name: StageManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7378967848780515279
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7378967848780515273}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7378967848780515278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7378967848780515273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a019bd525a598c143a39148e3fbb3918, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_startButtonManager: {fileID: 3541103897564278174}
+  m_goalManager: {fileID: 3869820600976100066, guid: 5e0c36e2f5ea02a4facf1f3cc38eaae8,
+    type: 3}
+  m_startPointManager: {fileID: 4243780116078094691, guid: 86b82b1968a1ab14f8485f6875f4d2ec,
+    type: 3}
+  m_laserPrefab: {fileID: 2692142257912462948, guid: 84fe96f03bffcab48953a28280e71c8f,
+    type: 3}
+  m_infinityReflectorPrefab: {fileID: 3042345407513595053, guid: 33c2d5e10cb21c34fb02e077d3274939,
+    type: 3}
+  m_reflecterPrefab: {fileID: 7464446505365086364, guid: e07f80007a101d8479a039855523722f,
+    type: 3}
+  m_wallPrefab: {fileID: 3060383475922239970, guid: 41b1053b6a9ad35499e7bd82a6f78af6,
+    type: 3}
+  m_coinManager: {fileID: 76213929517977410, guid: 548d0a1a2f0c0a841af3d5c2dcd00c3a,
+    type: 3}
+  m_resultManager: {fileID: 5206739628003145116}
+  m_dataProvider: {fileID: 0}
+  m_playableReflectorManager: {fileID: 0}
+--- !u!114 &3541103897564278174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7378967848780515273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d153e817687dfb4bbb64df4e5ececc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InputHandlerObj: {fileID: 0}
+  m_startPoint: {fileID: 0}
+  m_coverGlass: {fileID: 0}
+  ButtonPos: {x: 45.5, y: -95, z: 0}
+  ButtonSize: 10
+--- !u!114 &5206739628003145116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7378967848780515273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dab95b89533910146991a7e8f068e432, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_clearUI: {fileID: 0}
+  m_gameOverUI: {fileID: 0}

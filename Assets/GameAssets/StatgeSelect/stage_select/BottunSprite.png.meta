@@ -1,0 +1,2173 @@
+fileFormatVersion: 2
+guid: ab968f56aad6b2a4c87cd6688d5fbc75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1886355958920628060
+    second: BottunSprite_0
+  - first:
+      213: 2342042717187363054
+    second: BottunSprite_1
+  - first:
+      213: 1390779124517659930
+    second: BottunSprite_2
+  - first:
+      213: -4080939587616202492
+    second: BottunSprite_3
+  - first:
+      213: -2806589917587262137
+    second: BottunSprite_4
+  - first:
+      213: 4938611096640017710
+    second: BottunSprite_5
+  - first:
+      213: 8351014532448677305
+    second: BottunSprite_6
+  - first:
+      213: 3747506194063886679
+    second: BottunSprite_7
+  - first:
+      213: -8309724997671632436
+    second: BottunSprite_8
+  - first:
+      213: -2074904154308072286
+    second: BottunSprite_9
+  - first:
+      213: -6230179745666368054
+    second: BottunSprite_10
+  - first:
+      213: -4958664968908946115
+    second: BottunSprite_11
+  - first:
+      213: -6155413364654446301
+    second: BottunSprite_12
+  - first:
+      213: -837570694485978689
+    second: BottunSprite_13
+  - first:
+      213: -3882863857997263845
+    second: BottunSprite_14
+  - first:
+      213: 8060362204264864056
+    second: BottunSprite_15
+  - first:
+      213: -453406050310384825
+    second: BottunSprite_16
+  - first:
+      213: 8666102212790030753
+    second: BottunSprite_17
+  - first:
+      213: 1526378110522371504
+    second: BottunSprite_18
+  - first:
+      213: -3942238093026304771
+    second: BottunSprite_19
+  - first:
+      213: 5220018562672791817
+    second: BottunSprite_20
+  - first:
+      213: 8136391697454263486
+    second: BottunSprite_21
+  - first:
+      213: 459586909993706360
+    second: BottunSprite_22
+  - first:
+      213: -1772131089412247857
+    second: BottunSprite_23
+  - first:
+      213: 605315875880563124
+    second: BottunSprite_24
+  - first:
+      213: 6093901883715741570
+    second: BottunSprite_25
+  - first:
+      213: 6359539007546791241
+    second: BottunSprite_26
+  - first:
+      213: -5041293616272148403
+    second: BottunSprite_27
+  - first:
+      213: -6889720432558710460
+    second: BottunSprite_28
+  - first:
+      213: -3140569062287287015
+    second: BottunSprite_29
+  - first:
+      213: -2997414125073887357
+    second: BottunSprite_30
+  - first:
+      213: 3951735908073474180
+    second: BottunSprite_31
+  - first:
+      213: 7619483689991377138
+    second: BottunSprite_32
+  - first:
+      213: 514018182188950755
+    second: BottunSprite_33
+  - first:
+      213: -2337139936623201216
+    second: BottunSprite_34
+  - first:
+      213: -8315953294069638025
+    second: BottunSprite_35
+  - first:
+      213: 8570824291656572190
+    second: BottunSprite_36
+  - first:
+      213: -2234370375574305536
+    second: BottunSprite_37
+  - first:
+      213: -7812621706877090545
+    second: BottunSprite_38
+  - first:
+      213: 1188336699148541802
+    second: BottunSprite_39
+  - first:
+      213: -2665221768988763988
+    second: BottunSprite_40
+  - first:
+      213: -6332423534267048992
+    second: BottunSprite_41
+  - first:
+      213: -5938251415210115477
+    second: BottunSprite_42
+  - first:
+      213: -7658959245051953682
+    second: BottunSprite_43
+  - first:
+      213: -6640462878979386047
+    second: BottunSprite_44
+  - first:
+      213: 2201543803069430798
+    second: BottunSprite_45
+  - first:
+      213: -2181182768734439257
+    second: BottunSprite_46
+  - first:
+      213: 7082106343932766328
+    second: BottunSprite_47
+  - first:
+      213: 3994549960684074982
+    second: BottunSprite_48
+  - first:
+      213: -6770936825654470228
+    second: BottunSprite_49
+  - first:
+      213: 6265683706092325733
+    second: BottunSprite_50
+  - first:
+      213: 969190187129550656
+    second: BottunSprite_51
+  - first:
+      213: 6883721861584560419
+    second: BottunSprite_52
+  - first:
+      213: 8593172931449683008
+    second: BottunSprite_53
+  - first:
+      213: 246989926930666545
+    second: BottunSprite_54
+  - first:
+      213: -3891516741762422072
+    second: BottunSprite_55
+  - first:
+      213: -724215203150837902
+    second: BottunSprite_56
+  - first:
+      213: -1091912913605855359
+    second: BottunSprite_57
+  - first:
+      213: 7401031654005648842
+    second: BottunSprite_58
+  - first:
+      213: 2343429041611753373
+    second: BottunSprite_59
+  - first:
+      213: -245171063701222051
+    second: BottunSprite_60
+  - first:
+      213: 1900607926136241227
+    second: BottunSprite_61
+  - first:
+      213: 5647715806656387602
+    second: BottunSprite_62
+  - first:
+      213: 7764313665767560527
+    second: BottunSprite_63
+  - first:
+      213: -2561171494837974775
+    second: BottunSprite_64
+  - first:
+      213: 6731258521541875270
+    second: BottunSprite_65
+  - first:
+      213: -3222167792425385656
+    second: BottunSprite_66
+  - first:
+      213: 3065582057826652731
+    second: BottunSprite_67
+  - first:
+      213: -5946965740425811081
+    second: BottunSprite_68
+  - first:
+      213: -3056755934580366320
+    second: BottunSprite_69
+  - first:
+      213: 3396756682518686739
+    second: BottunSprite_70
+  - first:
+      213: 4598653968097939788
+    second: BottunSprite_71
+  - first:
+      213: -5611333581598521934
+    second: BottunSprite_72
+  - first:
+      213: -4379682385991082225
+    second: BottunSprite_73
+  - first:
+      213: -2972035433376797110
+    second: BottunSprite_74
+  - first:
+      213: -6917529260581018828
+    second: BottunSprite_75
+  - first:
+      213: 5919204702251469927
+    second: BottunSprite_76
+  - first:
+      213: 6081094729141473517
+    second: BottunSprite_77
+  - first:
+      213: -312528766978768566
+    second: BottunSprite_78
+  - first:
+      213: -7033564217413670410
+    second: BottunSprite_79
+  - first:
+      213: 8441714181725025119
+    second: BottunSprite_80
+  - first:
+      213: 739813904225012402
+    second: BottunSprite_81
+  - first:
+      213: 7001790918893565588
+    second: BottunSprite_82
+  - first:
+      213: -7037111053935893322
+    second: BottunSprite_83
+  - first:
+      213: -1854412034394016575
+    second: BottunSprite_84
+  - first:
+      213: -9009372515944161732
+    second: BottunSprite_85
+  - first:
+      213: 6115693037047860752
+    second: BottunSprite_86
+  - first:
+      213: -8427600319338671807
+    second: BottunSprite_87
+  - first:
+      213: -3529230879061052132
+    second: BottunSprite_88
+  - first:
+      213: -8333722514058455123
+    second: BottunSprite_89
+  - first:
+      213: -5096830741737830028
+    second: BottunSprite_90
+  - first:
+      213: 1315315663904978320
+    second: BottunSprite_91
+  - first:
+      213: -7956856186802757765
+    second: BottunSprite_92
+  - first:
+      213: -6049129245838508901
+    second: BottunSprite_93
+  - first:
+      213: 3471528415327842491
+    second: BottunSprite_94
+  - first:
+      213: 8665191907472202502
+    second: BottunSprite_95
+  - first:
+      213: -1560457003541541036
+    second: BottunSprite_96
+  - first:
+      213: 4641934527243914907
+    second: BottunSprite_97
+  - first:
+      213: 5928940676650516324
+    second: BottunSprite_98
+  - first:
+      213: -6955858068475417781
+    second: BottunSprite_99
+  - first:
+      213: -2104726454516008454
+    second: BottunSprite_100
+  - first:
+      213: 8865202427208936664
+    second: BottunSprite_101
+  - first:
+      213: -8886196241846366494
+    second: BottunSprite_102
+  - first:
+      213: 7608969311186799285
+    second: BottunSprite_103
+  - first:
+      213: -4225204985595811797
+    second: BottunSprite_104
+  - first:
+      213: 3632143457336774682
+    second: BottunSprite_105
+  - first:
+      213: 8574757780442439335
+    second: BottunSprite_106
+  - first:
+      213: -5566740736843974436
+    second: BottunSprite_107
+  - first:
+      213: -8605415587664627957
+    second: BottunSprite_108
+  - first:
+      213: 2860891326312438815
+    second: BottunSprite_109
+  - first:
+      213: -1120366102082981763
+    second: BottunSprite_110
+  - first:
+      213: 3471569494788048591
+    second: BottunSprite_111
+  - first:
+      213: 567708393290910915
+    second: BottunSprite_112
+  - first:
+      213: 1019974020633651434
+    second: BottunSprite_113
+  - first:
+      213: -4532675978078520753
+    second: BottunSprite_114
+  - first:
+      213: 4086876264652310151
+    second: BottunSprite_115
+  - first:
+      213: -7254040221862308387
+    second: BottunSprite_116
+  - first:
+      213: 93535171973643574
+    second: BottunSprite_117
+  - first:
+      213: -2173864911976566015
+    second: BottunSprite_118
+  - first:
+      213: 284759530955893984
+    second: BottunSprite_119
+  - first:
+      213: -6911726994169419980
+    second: BottunSprite_120
+  - first:
+      213: 7671624053607225743
+    second: BottunSprite_121
+  - first:
+      213: 2827953139670669982
+    second: BottunSprite_122
+  - first:
+      213: 6131290804035661977
+    second: BottunSprite_123
+  - first:
+      213: 1563436507541360863
+    second: BottunSprite_124
+  - first:
+      213: 514823339215328895
+    second: BottunSprite_125
+  - first:
+      213: -9129104055822559132
+    second: BottunSprite_126
+  - first:
+      213: 4168498530971671897
+    second: BottunSprite_127
+  - first:
+      213: 6722624459637219936
+    second: BottunSprite_128
+  - first:
+      213: -307655868621111955
+    second: BottunSprite_129
+  - first:
+      213: 7279263793249776224
+    second: BottunSprite_130
+  - first:
+      213: 1713121128855092612
+    second: BottunSprite_131
+  - first:
+      213: -5024134862705031847
+    second: BottunSprite_132
+  - first:
+      213: -9172916748426358788
+    second: BottunSprite_133
+  - first:
+      213: 8877337441563545580
+    second: BottunSprite_134
+  - first:
+      213: -8715684892069706215
+    second: BottunSprite_135
+  - first:
+      213: 6974284501140757287
+    second: BottunSprite_136
+  - first:
+      213: 3066439000531542469
+    second: BottunSprite_137
+  - first:
+      213: -3519646508351351014
+    second: BottunSprite_138
+  - first:
+      213: 1195932239983396512
+    second: BottunSprite_139
+  - first:
+      213: -6983789822419678279
+    second: BottunSprite_140
+  - first:
+      213: 7558455862094825011
+    second: BottunSprite_141
+  - first:
+      213: -4704202220074734504
+    second: BottunSprite_142
+  - first:
+      213: 535570288788237484
+    second: BottunSprite_143
+  - first:
+      213: 3876041476787344987
+    second: BottunSprite_144
+  - first:
+      213: -7701157305166174167
+    second: BottunSprite_145
+  - first:
+      213: 5639173514824013129
+    second: BottunSprite_146
+  - first:
+      213: -8815252224651945133
+    second: BottunSprite_147
+  - first:
+      213: 4937098289337495557
+    second: BottunSprite_148
+  - first:
+      213: -8144825349605611075
+    second: BottunSprite_149
+  - first:
+      213: -6932282112362534819
+    second: BottunSprite_150
+  - first:
+      213: -1101155547181515896
+    second: BottunSprite_151
+  - first:
+      213: 340072094186943179
+    second: BottunSprite_152
+  - first:
+      213: 3334195492870719226
+    second: BottunSprite_153
+  - first:
+      213: 5503591239223291098
+    second: BottunSprite_154
+  - first:
+      213: -2203339521945416602
+    second: BottunSprite_155
+  - first:
+      213: -2480770689528644887
+    second: BottunSprite_156
+  - first:
+      213: 1719436479349608883
+    second: BottunSprite_157
+  - first:
+      213: -3138313435501755293
+    second: BottunSprite_158
+  - first:
+      213: -1891526631285137684
+    second: BottunSprite_159
+  - first:
+      213: 8294390010016372384
+    second: BottunSprite_160
+  - first:
+      213: -4513135044658114149
+    second: BottunSprite_161
+  - first:
+      213: 8216865513072595656
+    second: BottunSprite_162
+  - first:
+      213: 1159450992197768485
+    second: BottunSprite_163
+  - first:
+      213: -6739052559487812851
+    second: BottunSprite_164
+  - first:
+      213: 8016341228406921393
+    second: BottunSprite_165
+  - first:
+      213: 3462274466505663768
+    second: BottunSprite_166
+  - first:
+      213: -7415884325022478981
+    second: BottunSprite_167
+  - first:
+      213: -6766617046663938299
+    second: BottunSprite_168
+  - first:
+      213: 4816571026527766082
+    second: BottunSprite_169
+  - first:
+      213: 173665522089268745
+    second: BottunSprite_170
+  - first:
+      213: 7329136254470359695
+    second: BottunSprite_171
+  - first:
+      213: 1319258377573278729
+    second: BottunSprite_172
+  - first:
+      213: 4021041966945607410
+    second: BottunSprite_173
+  - first:
+      213: 6017352253064585212
+    second: BottunSprite_174
+  - first:
+      213: 6974390412364369554
+    second: BottunSprite_175
+  - first:
+      213: 7646310105069015826
+    second: BottunSprite_176
+  - first:
+      213: -6899925729614973987
+    second: BottunSprite_177
+  - first:
+      213: 6525013062370847098
+    second: BottunSprite_178
+  - first:
+      213: 1575400329669344501
+    second: BottunSprite_179
+  - first:
+      213: -1451373840258003718
+    second: BottunSprite_180
+  - first:
+      213: 7034503365889604325
+    second: BottunSprite_181
+  - first:
+      213: 7448692753359203814
+    second: BottunSprite_182
+  - first:
+      213: -1948559522237582212
+    second: BottunSprite_183
+  - first:
+      213: -7616005451078680830
+    second: BottunSprite_184
+  - first:
+      213: -1128683531897044745
+    second: BottunSprite_185
+  - first:
+      213: -3864810977972312132
+    second: BottunSprite_186
+  - first:
+      213: 672022862366947676
+    second: BottunSprite_187
+  - first:
+      213: -1733145298311218882
+    second: BottunSprite_188
+  - first:
+      213: -8502901802745472582
+    second: BottunSprite_189
+  - first:
+      213: 3164007323779916815
+    second: BottunSprite_190
+  - first:
+      213: 1227871461664998783
+    second: BottunSprite_191
+  - first:
+      213: -3104871393253263027
+    second: BottunSprite_192
+  - first:
+      213: 5736034345340611011
+    second: BottunSprite_193
+  - first:
+      213: 454581168294545141
+    second: BottunSprite_194
+  - first:
+      213: -1072039308210753622
+    second: BottunSprite_195
+  - first:
+      213: -2838972870388309291
+    second: BottunSprite_196
+  - first:
+      213: -2205150796880104609
+    second: BottunSprite_197
+  - first:
+      213: 6477630739597697242
+    second: BottunSprite_198
+  - first:
+      213: -4326387031842948234
+    second: BottunSprite_199
+  - first:
+      213: -4517530433331591930
+    second: BottunSprite_200
+  - first:
+      213: -8029322741359692813
+    second: BottunSprite_201
+  - first:
+      213: -9219353381028840950
+    second: BottunSprite_202
+  - first:
+      213: 1627210082344807603
+    second: BottunSprite_203
+  - first:
+      213: 2242162095312004781
+    second: BottunSprite_204
+  - first:
+      213: -7440062915255764114
+    second: BottunSprite_205
+  - first:
+      213: 3089046579750225024
+    second: BottunSprite_206
+  - first:
+      213: 487693201669989935
+    second: BottunSprite_207
+  - first:
+      213: 1055484095825038266
+    second: BottunSprite_208
+  - first:
+      213: -2360656389623693867
+    second: BottunSprite_209
+  - first:
+      213: -63923889979279528
+    second: BottunSprite_210
+  - first:
+      213: 5613850494198887557
+    second: BottunSprite_211
+  - first:
+      213: -310910238241343709
+    second: BottunSprite_212
+  - first:
+      213: 4794221173107312913
+    second: BottunSprite_213
+  - first:
+      213: -3271388381291306128
+    second: BottunSprite_214
+  - first:
+      213: -5363635142527989139
+    second: BottunSprite_215
+  - first:
+      213: -2125707652746083478
+    second: BottunSprite_216
+  - first:
+      213: 5030783050435591757
+    second: BottunSprite_217
+  - first:
+      213: -1669855154338614026
+    second: BottunSprite_218
+  - first:
+      213: -881715690751169964
+    second: BottunSprite_219
+  - first:
+      213: -3812264600590326493
+    second: BottunSprite_220
+  - first:
+      213: -117342617984442196
+    second: BottunSprite_221
+  - first:
+      213: -7284927359424162203
+    second: BottunSprite_222
+  - first:
+      213: 4768742979015904912
+    second: BottunSprite_223
+  - first:
+      213: -4065690806851328908
+    second: BottunSprite_224
+  - first:
+      213: -5301686563604107372
+    second: BottunSprite_225
+  - first:
+      213: 6728687086435762411
+    second: BottunSprite_226
+  - first:
+      213: 8452943435749226723
+    second: BottunSprite_227
+  - first:
+      213: 4773944381391521968
+    second: BottunSprite_228
+  - first:
+      213: 6148804150894030605
+    second: BottunSprite_229
+  - first:
+      213: 2968758606833765858
+    second: BottunSprite_230
+  - first:
+      213: 5564320406311081598
+    second: BottunSprite_231
+  - first:
+      213: -1659186394723370620
+    second: BottunSprite_232
+  - first:
+      213: 7931079648140320200
+    second: BottunSprite_233
+  - first:
+      213: 4083209457301656659
+    second: BottunSprite_234
+  - first:
+      213: 6254568060589432998
+    second: BottunSprite_235
+  - first:
+      213: 7471349503977205910
+    second: BottunSprite_236
+  - first:
+      213: -4905877092711887320
+    second: BottunSprite_237
+  - first:
+      213: -4970019524099396542
+    second: BottunSprite_238
+  - first:
+      213: -7454594866770214438
+    second: BottunSprite_239
+  - first:
+      213: 7678758037864323763
+    second: BottunSprite_240
+  - first:
+      213: 7353836270513076440
+    second: BottunSprite_241
+  - first:
+      213: 2726533940928231865
+    second: BottunSprite_242
+  - first:
+      213: 2597370019199059185
+    second: BottunSprite_243
+  - first:
+      213: -8931560129646045812
+    second: BottunSprite_244
+  - first:
+      213: 2644681940221040370
+    second: BottunSprite_245
+  - first:
+      213: -6207997297966955457
+    second: BottunSprite_246
+  - first:
+      213: 8482717017127081254
+    second: BottunSprite_247
+  - first:
+      213: -4236358494711114142
+    second: BottunSprite_248
+  - first:
+      213: -1779314709027943771
+    second: BottunSprite_249
+  - first:
+      213: -8587844487520107690
+    second: BottunSprite_250
+  - first:
+      213: 3425475620734738493
+    second: BottunSprite_251
+  - first:
+      213: -7460652873292613789
+    second: BottunSprite_252
+  - first:
+      213: 4908049998067009170
+    second: BottunSprite_253
+  - first:
+      213: -1990053874135797381
+    second: BottunSprite_254
+  - first:
+      213: 5342252751111171457
+    second: BottunSprite_255
+  - first:
+      213: -3432383082841651284
+    second: BottunSprite_256
+  - first:
+      213: 1716280478369399293
+    second: BottunSprite_257
+  - first:
+      213: 2206944623176278389
+    second: BottunSprite_258
+  - first:
+      213: -1679981762213261544
+    second: BottunSprite_259
+  - first:
+      213: -5997065217981889889
+    second: BottunSprite_260
+  - first:
+      213: 5401315793903927479
+    second: BottunSprite_261
+  - first:
+      213: 5017283367493240204
+    second: BottunSprite_262
+  - first:
+      213: 825005572118422520
+    second: BottunSprite_263
+  - first:
+      213: -8388368231421624238
+    second: BottunSprite_264
+  - first:
+      213: -1015983585695065401
+    second: BottunSprite_265
+  - first:
+      213: 4130518362915695966
+    second: BottunSprite_266
+  - first:
+      213: 3408074497120146792
+    second: BottunSprite_267
+  - first:
+      213: 6244811007094239904
+    second: BottunSprite_268
+  - first:
+      213: -8502998243899876454
+    second: BottunSprite_269
+  - first:
+      213: -6161730328889590297
+    second: BottunSprite_270
+  - first:
+      213: 9022091374675910733
+    second: BottunSprite_271
+  - first:
+      213: -6637099929624749531
+    second: BottunSprite_272
+  - first:
+      213: -2633375948869015203
+    second: BottunSprite_273
+  - first:
+      213: 6475705669774010729
+    second: BottunSprite_274
+  - first:
+      213: -2598413266768119214
+    second: BottunSprite_275
+  - first:
+      213: -6092355331113145730
+    second: BottunSprite_276
+  - first:
+      213: -4896053728651691336
+    second: BottunSprite_277
+  - first:
+      213: -1422019222794730603
+    second: BottunSprite_278
+  - first:
+      213: -2731084363463180162
+    second: BottunSprite_279
+  - first:
+      213: 7469683390273385840
+    second: BottunSprite_280
+  - first:
+      213: 4358829789383202748
+    second: BottunSprite_281
+  - first:
+      213: 3957208246602369051
+    second: BottunSprite_282
+  - first:
+      213: -3749871547869894192
+    second: BottunSprite_283
+  - first:
+      213: 2364031417190697397
+    second: BottunSprite_284
+  - first:
+      213: 8000664977587964569
+    second: BottunSprite_285
+  - first:
+      213: 200274101906675416
+    second: BottunSprite_286
+  - first:
+      213: -5391095221981422687
+    second: BottunSprite_287
+  - first:
+      213: -1366707430403981181
+    second: BottunSprite_288
+  - first:
+      213: 7386867378489634794
+    second: BottunSprite_289
+  - first:
+      213: 5772506336904736145
+    second: BottunSprite_290
+  - first:
+      213: -3583378800066687026
+    second: BottunSprite_291
+  - first:
+      213: -1319866618775016083
+    second: BottunSprite_292
+  - first:
+      213: -4398569208884910430
+    second: BottunSprite_293
+  - first:
+      213: -6780145073688877472
+    second: BottunSprite_294
+  - first:
+      213: -4765391433083582160
+    second: BottunSprite_295
+  - first:
+      213: -5630521087811721922
+    second: BottunSprite_296
+  - first:
+      213: -2306025278426012860
+    second: BottunSprite_297
+  - first:
+      213: 4347784260207507538
+    second: BottunSprite_298
+  - first:
+      213: 8457625570098485952
+    second: BottunSprite_299
+  - first:
+      213: 7739274421340566423
+    second: BottunSprite_300
+  - first:
+      213: 8278915142574504129
+    second: BottunSprite_301
+  - first:
+      213: -5741519129634585110
+    second: BottunSprite_302
+  - first:
+      213: 1119484921456687552
+    second: BottunSprite_303
+  - first:
+      213: 2953030669922749473
+    second: BottunSprite_304
+  - first:
+      213: 1483183058074908823
+    second: BottunSprite_305
+  - first:
+      213: 1302775335704621207
+    second: BottunSprite_306
+  - first:
+      213: -3118399638911891421
+    second: BottunSprite_307
+  - first:
+      213: 2174945867837806234
+    second: BottunSprite_308
+  - first:
+      213: -4978688239122634035
+    second: BottunSprite_309
+  - first:
+      213: -9005698623093580586
+    second: BottunSprite_310
+  - first:
+      213: 7007538885871778986
+    second: BottunSprite_311
+  - first:
+      213: -5574703333856327092
+    second: BottunSprite_312
+  - first:
+      213: 2850051457498370699
+    second: BottunSprite_313
+  - first:
+      213: -8603516075754104777
+    second: BottunSprite_314
+  - first:
+      213: -2218390190865391911
+    second: BottunSprite_315
+  - first:
+      213: -4567770323992490539
+    second: BottunSprite_316
+  - first:
+      213: 2867834785137998266
+    second: BottunSprite_317
+  - first:
+      213: -7658200765640097724
+    second: BottunSprite_318
+  - first:
+      213: 4258866774569692714
+    second: BottunSprite_319
+  - first:
+      213: 376547184079913256
+    second: BottunSprite_320
+  - first:
+      213: -6946162398921721
+    second: BottunSprite_321
+  - first:
+      213: -281825697739187821
+    second: BottunSprite_322
+  - first:
+      213: 5142520027937759199
+    second: BottunSprite_323
+  - first:
+      213: -6317632610867541597
+    second: BottunSprite_324
+  - first:
+      213: -5784927503854171033
+    second: BottunSprite_325
+  - first:
+      213: 8654170773031848439
+    second: BottunSprite_326
+  - first:
+      213: -9100400584980254818
+    second: BottunSprite_327
+  - first:
+      213: 8513896966522849177
+    second: BottunSprite_328
+  - first:
+      213: -9124424964881606201
+    second: BottunSprite_329
+  - first:
+      213: 769331841112321692
+    second: BottunSprite_330
+  - first:
+      213: -4894935844927447203
+    second: BottunSprite_331
+  - first:
+      213: 6276856681690186252
+    second: BottunSprite_332
+  - first:
+      213: -7308927901669942320
+    second: BottunSprite_333
+  - first:
+      213: -3207342070309425844
+    second: BottunSprite_334
+  - first:
+      213: 1119099519493767229
+    second: BottunSprite_335
+  - first:
+      213: 4505537969658059547
+    second: BottunSprite_336
+  - first:
+      213: 5861813619964456156
+    second: BottunSprite_337
+  - first:
+      213: 8724698987807279494
+    second: BottunSprite_338
+  - first:
+      213: 3486530662909425015
+    second: BottunSprite_339
+  - first:
+      213: 4050327617080507980
+    second: BottunSprite_340
+  - first:
+      213: -6359778177285779459
+    second: BottunSprite_341
+  - first:
+      213: 7718836071734669226
+    second: BottunSprite_342
+  - first:
+      213: -7330427210503650535
+    second: BottunSprite_343
+  - first:
+      213: 4612969372175534113
+    second: BottunSprite_344
+  - first:
+      213: 8102573253432924812
+    second: BottunSprite_345
+  - first:
+      213: -2880854111939216346
+    second: BottunSprite_346
+  - first:
+      213: 7924812318493076061
+    second: BottunSprite_347
+  - first:
+      213: -2980667075123550482
+    second: BottunSprite_348
+  - first:
+      213: -8071741531223066430
+    second: BottunSprite_349
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BottunSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8389cef3152d5e0800000000000000
+      internalID: -1886355958920628060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee05ebe417b908020800000000000000
+      internalID: 2342042717187363054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1567edbe3a0d4310800000000000000
+      internalID: 1390779124517659930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ae4a11179d57c0800000000000000
+      internalID: -4080939587616202492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b404075dfc09d0800000000000000
+      internalID: -2806589917587262137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25d70360a8798440800000000000000
+      internalID: 4938611096640017710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd6ab0c873c4e370800000000000000
+      internalID: 8351014532448677305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75901c24701d10430800000000000000
+      internalID: 3747506194063886679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc14994342dedac80800000000000000
+      internalID: -8309724997671632436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac2c7b3aa57433e0800000000000000
+      internalID: -2074904154308072286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf8bcb784f989a0800000000000000
+      internalID: -6230179745666368054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d354200ab784f2bb0800000000000000
+      internalID: -4958664968908946115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329641a5824939aa0800000000000000
+      internalID: -6155413364654446301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d2e814e95064f0800000000000000
+      internalID: -837570694485978689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cced8b4eb4d1ac0800000000000000
+      internalID: -3882863857997263845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839113a18b82cdf60800000000000000
+      internalID: 8060362204264864056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7439c38799d25b9f0800000000000000
+      internalID: -453406050310384825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1939c2c0e244870800000000000000
+      internalID: 8666102212790030753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd2e9eedc8ce2510800000000000000
+      internalID: 1526378110522371504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 800
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc572d575b5a49c0800000000000000
+      internalID: -3942238093026304771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9019e05d93b317840800000000000000
+      internalID: 5220018562672791817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 800
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce230f3254ae070800000000000000
+      internalID: 8136391697454263486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87328911cd7c06600800000000000000
+      internalID: 459586909993706360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 800
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce2820d9202867e0800000000000000
+      internalID: -1772131089412247857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1f3cef493866800800000000000000
+      internalID: 605315875880563124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 600
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e5f2f973e19450800000000000000
+      internalID: 6093901883715741570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451118780f914850800000000000000
+      internalID: 6359539007546791241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4877a97a2ab90ab0800000000000000
+      internalID: -5041293616272148403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441669715cbc260a0800000000000000
+      internalID: -6889720432558710460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 600
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dd8c9c3157a64d0800000000000000
+      internalID: -3140569062287287015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f8b36fbbb0766d0800000000000000
+      internalID: -2997414125073887357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48800e60fd267d630800000000000000
+      internalID: 3951735908073474180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f091d9db08ddb960800000000000000
+      internalID: 7619483689991377138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4e67530d8222700800000000000000
+      internalID: 514018182188950755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f13f3c9fc09fd0800000000000000
+      internalID: -2337139936623201216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 400
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c5d32f98cc79c80800000000000000
+      internalID: -8315953294069638025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d9a78784fa1f670800000000000000
+      internalID: 8570824291656572190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005cc3b4bfbedf0e0800000000000000
+      internalID: -2234370375574305536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05c51d53fdf39390800000000000000
+      internalID: -7812621706877090545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f1f4a8ee1dd7010800000000000000
+      internalID: 1188336699148541802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca859cb0cea330bd0800000000000000
+      internalID: -2665221768988763988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 200
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb50b0a856be18a0800000000000000
+      internalID: -6332423534267048992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb071dcc7179da0800000000000000
+      internalID: -5938251415210115477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedfb714529e5b590800000000000000
+      internalID: -7658959245051953682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145144ab13658d3a0800000000000000
+      internalID: -6640462878979386047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c7a63bc647d8e10800000000000000
+      internalID: 2201543803069430798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8716704d1eab1e0800000000000000
+      internalID: -2181182768734439257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottunSprite_47
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87827ab7232b84260800000000000000
+      internalID: 7082106343932766328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
